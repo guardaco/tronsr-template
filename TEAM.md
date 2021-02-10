@@ -1,14 +1,13 @@
 ## Founder
 
-Name: [name]
-Role: [role]
+Name: [Paul Sokolov] 
+Role: [CEO]
 
 ## Team Member 1
 
-Name: [name]
-Role: [role]
-
+Name: [Artem Kirillov] 
+Role: [COO]
 ## Team Member 2
 
-Name: [name]
-Role: [role]
+Name: [Alex Ryabov] 
+Role: [DevOps Engineer]

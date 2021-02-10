@@ -1,1 +1,1 @@
-A short introduction about your team
+The first Guarda Wallet for Ethereum (ETH) was launched in 2017. Since then, our team has built a unique ecosystem of blockchain-related products. Guarda squad comprises of highly experienced specialists. Guarda developers created digital wallets that provide complete security. Everyone can use our software for easy storing and managing cryptocurrencies. Our core values are freedom of privacy and top level security.
